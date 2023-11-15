@@ -72,7 +72,17 @@ L'application peut être testée en utilisant l'outil Postman ou en exécutant l
 -Modifier une categorie :
 <img width="890" alt="image" src="https://github.com/Khol20/examJee/assets/147450314/56171d02-1328-4027-b8f9-a51e2c4a79c8">
 
-  
+-Articles entre deux dates :
+<img width="942" alt="image" src="https://github.com/Khol20/examJee/assets/147450314/d859b68e-21b3-443c-924d-bf20605a95a1">
+
+-Sous categories d'une categorie:
+
+<img width="948" alt="image" src="https://github.com/Khol20/examJee/assets/147450314/808f76af-fd5f-4444-8e02-8e7213848e58">
+
+
+
+
+
 
 
   
