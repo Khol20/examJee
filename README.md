@@ -38,8 +38,11 @@ DELETE /api/v3/categories/{id}: Supprimer une catégorie par ID.
 
 ## Tests
 L'application peut être testée en utilisant l'outil Postman ou en exécutant les tests unitaires inclus dans le projet.
+
 - Base de donnees:
   <img width="550" alt="image" src="https://github.com/Khol20/examJee/assets/147450314/db6dc2d0-333c-4a9b-98f3-82582aaac597">
+
+
   
 - Creation d'une categorie :
   <img width="946" alt="image" src="https://github.com/Khol20/examJee/assets/147450314/d4b65dca-a7c8-4596-9456-74e62f30a545">
